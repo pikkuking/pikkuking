@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Coding
 - 📫 How to reach me ... msg me
 - 😄 Pronouns: ...Pikkuking
-- ⚡ Fun fact: ... Enjoying Life
+- ⚡ Fun fact: ... Enjoying Life.
 
 <!---
 pikkuking/pikkuking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
